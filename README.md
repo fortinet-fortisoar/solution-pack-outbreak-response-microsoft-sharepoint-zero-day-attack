@@ -9,7 +9,7 @@
 
 FortiGuard Labs has detected and successfully blocked hundreds of exploitation attempts targeting a newly discovered zero-day vulnerability chain in on-premises Microsoft SharePoint servers. This active campaign is being exploited by multiple threat actors and poses a significant risk to a wide range of sectors including including government, education, healthcare, and large enterprises. 
 
- The **Outbreak Response - Microsoft SharePoint Zero-day Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.0.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
+ The **Outbreak Response - Microsoft SharePoint Zero-day Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.1.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
 
  The [FortiGuard Outbreak Page](https://www.fortiguard.com/outbreak-alert/microsoft-sharepoint-zero-day) contains information about the outbreak alert **Outbreak Response - Microsoft SharePoint Zero-day Attack**. 
 
